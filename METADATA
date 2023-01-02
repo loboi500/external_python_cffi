@@ -1,17 +1,3 @@
-name: "cffi"
-description:
-    "Foreign Function Interface for Python calling C code."
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://bitbucket.org/cffi/cffi"
-  }
-  url {
-    type: HG
-    value: "https://bitbucket.org/cffi/cffi/src"
-  }
-  version: "1.12.2"
-  last_upgrade_date { year: 2019 month: 2 day: 26 }
-  license_type: NOTICE
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:88a7c1b06f7fdfbb2c9ee65438dd6131c1b8cdb0ec9d09b1d588e328206ccf31
+size 348

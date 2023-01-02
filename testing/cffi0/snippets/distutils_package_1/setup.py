@@ -1,7 +1,3 @@
-
-from distutils.core import setup
-import snip_basic_verify1
-
-setup(
-    packages=['snip_basic_verify1'],
-    ext_modules=[snip_basic_verify1.ffi.verifier.get_extension()])
+version https://git-lfs.github.com/spec/v1
+oid sha256:4867d3f7c111d55ad437291a755f7fe57036f2ed06e483c797814d844551e248
+size 172
